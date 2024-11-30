@@ -6,4 +6,4 @@
 
 ![The Emperor](img/the_emperor.jpg)
 
-![authentication](authentication)
+![authentication](authentication.md)
