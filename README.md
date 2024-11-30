@@ -1,8 +1,10 @@
 # 6530200606 Chaiwat Setho
  "In the grim darkness of far future there is only war."
 
-- Imperium of man
- - The Emperor
+- Name : Chaiwat Setho
+- Id : 6530200606
+- Contact : chaiwat.sad@ku.th
+
 
 ![The Emperor](img/the_emperor.jpg)
 
