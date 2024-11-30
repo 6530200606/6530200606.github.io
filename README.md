@@ -1,9 +1,8 @@
-# "In the grim darkness of far future there is only war."
+# 6530200606 Chaiwat Setho
+ "In the grim darkness of far future there is only war."
 
 - Imperium of man
  - The Emperor
-  - Chaiwat Setho
-  - 6530200606
 
 ![The Emperor](img/the_emperor.jpg)
 
