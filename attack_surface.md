@@ -16,3 +16,13 @@
 
   1. ในเดือนมีนาคม 2023 มีการค้นพบ CVE-2023-27997 เปิดเผยช่องโหว่ในไฟร์วอลล์ Fortinet SSL VPN กว่า 200,000 รายการ ซึ่งแสดงให้เห็นถึงความจำเป็นอย่างยิ่งของการบริหารจัดการพื้นผิวการโจมตี (Attack Surface Management) ที่มีประสิทธิภาพ เพื่อป้องกันไม่ให้ผู้โจมตีใช้ช่องโหว่ดังกล่าวและคุกคามความปลอดภัยของเครือข่าย.
   2. ใช้สมาร์ทโฟนที่เก่าโดยไม่ได้อัปเดตซอฟต์แวร์
+
+# URL
+
+ 1. https://www.isc2.org/certifications/cissp/cissp-student-glossary
+ 2. https://csrc.nist.gov/glossary/term/attack_surface
+ 3. https://6530200606.github.io/attack_surface.html
+ 
+# Buddy
+
+ 1. https://kasidid-y.github.io/attack_surface
