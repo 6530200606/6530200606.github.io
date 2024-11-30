@@ -21,4 +21,5 @@
 
 # Examples
 
-  In March 2023, the discovery of CVE-2023-27997 exposed vulnerabilities in over 200,000 Fortinet SSL VPN firewalls, demonstrating the critical need for robust attack surface management to prevent attackers from exploiting such weaknesses and threatening network security.
+  1. ในเดือนมีนาคม 2023 มีการค้นพบ CVE-2023-27997 เปิดเผยช่องโหว่ในไฟร์วอลล์ Fortinet SSL VPN กว่า 200,000 รายการ ซึ่งแสดงให้เห็นถึงความจำเป็นอย่างยิ่งของการบริหารจัดการพื้นผิวการโจมตี (Attack Surface Management) ที่มีประสิทธิภาพ เพื่อป้องกันไม่ให้ผู้โจมตีใช้ช่องโหว่ดังกล่าวและคุกคามความปลอดภัยของเครือข่าย.
+  2. ใช้สมาร์ทโฟนที่เก่าโดยไม่ได้อัปเดตซอฟต์แวร์
