@@ -21,8 +21,7 @@
 
  1. https://www.isc2.org/certifications/cissp/cissp-student-glossary
  2. https://csrc.nist.gov/glossary/term/attack_surface
- 3. https://6530200606.github.io/attack_surface.html
  
-# Buddy
+# [Buddy](https://kasidid-y.github.io/attack_surface)
 
  1. https://kasidid-y.github.io/attack_surface
