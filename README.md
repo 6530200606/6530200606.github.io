@@ -4,3 +4,4 @@
  - The Emperor
   - Chaiwat Setho
 
+![The Emperor](img/the_emperor.jpg)
