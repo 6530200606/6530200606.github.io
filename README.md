@@ -3,6 +3,7 @@
 - Imperium of man
  - The Emperor
   - Chaiwat Setho
+  - 6530200606
 
 ![The Emperor](img/the_emperor.jpg)
 
