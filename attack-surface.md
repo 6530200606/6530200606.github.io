@@ -1,6 +1,6 @@
 # Attack surface
 
-| **หัวข้อ**               | **CISSP Glossary**                                                                                                       | **NIST**                                                                                                                                                            |
+| **หัวข้อ**               | **CISSP Glossary (Certified Information Systems Security Professional)**                                                                                                       | **NIST (National Institute of Standards and Technology)**                                                                                                                                                            |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **คำอธิบาย (ภาษาอังกฤษ)** | Different security testing methods find different vulnerability types.                                                   | The set of points on the boundary of a system, a system element, or an environment where an attacker can try to enter, cause an effect on, or extract data from.   |
 | **คำอธิบาย (ChatGPT)**   | วิธีการทดสอบความปลอดภัยที่แตกต่างกันจะตรวจพบช่องโหว่ประเภทต่าง ๆ                                                      | ชุดของจุดบนขอบเขตของระบบ องค์ประกอบของระบบ หรือสภาพแวดล้อม ที่ผู้โจมตีสามารถพยายามเข้าสู่ระบบ ก่อให้เกิดผลกระทบ หรือดึงข้อมูลออกจากระบบนั้นได้               |
@@ -23,4 +23,4 @@
  2. [https://csrc.nist.gov/glossary/term/attack_surface](https://csrc.nist.gov/glossary/term/attack_surface)
 # Buddy
 
- 1. [https://kasidid-y.github.io/attack_surface](https://kasidid-y.github.io/attack_surface)
+ 1. [https://kasidid-y.github.io/attack-surface](https://kasidid-y.github.io/attack-surface)
