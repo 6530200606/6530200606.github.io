@@ -6,7 +6,7 @@
 - Contact : chaiwat.sad@ku.th
 
 
-![The Emperor](img/Christmas-card.png)
+![The Emperor](img/the_emperor.jpg)
 
 # [Attack surface](attack-surface.md)
 # [E-card](e-card.md)
