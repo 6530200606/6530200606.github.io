@@ -1,1 +1,1 @@
-![E-card Christmas day](img/Christmas-card.png)
+![Christmas-card](img/Christmas-card.png)
