@@ -2,7 +2,7 @@
 
 ## Definition
 
-Verify that password truncation is not performed. However, consecutive multiple spaces may be replaced by a single space.
+Verify users can change their password.
 
 ## Meaning by ChatGPT
 
